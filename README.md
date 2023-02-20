@@ -76,7 +76,8 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bijoya-banik&layout=compact&theme=vision-friendly-dark" /> 
 </p>
----
+
+
 #### How to get in touch with me?
 
 
