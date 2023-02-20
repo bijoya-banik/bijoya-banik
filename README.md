@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   
-  <img src="https://komarev.com/ghpvc/?username=amani27&style=flat-square&color=blue" alt=""/>
+ 
   <h1>
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -75,10 +75,10 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bijoya-banik" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoya-banik"/>
 </p>
 ---
 #### How to get in touch with me?
+
 
 <p left="center">
 <a href="https://www.linkedin.com/in/bijoya16/">
@@ -95,7 +95,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 <!-- GitHub Profile Views Counter -->
 
-![](https://komarev.com/ghpvc/?username=bijoya-banik)
+! <img src="https://komarev.com/ghpvc/?username=amani27&style=flat-square&color=blue" alt=""/>
 <!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
