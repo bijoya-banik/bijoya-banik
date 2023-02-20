@@ -1,11 +1,6 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <div id="badges">
-    <a href="www.linkedin.com/in/bijoya16">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    
-  </div>
+  
   <img src="https://komarev.com/ghpvc/?username=amani27&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey there!
@@ -78,11 +73,29 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoya-banik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bijoya-banik" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoya-banik"/>
+</p>
 ---
+#### How to get in touch with me?
+
+<p left="center">
+<a href="https://www.linkedin.com/in/bijoya16/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/profile.php?id=100009075038347/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:bijoyabanikbbh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+
+<br/>
 <!-- GitHub Profile Views Counter -->
 
-![](https://komarev.com/ghpvc/?username=tamannaBithy)
-
+![](https://komarev.com/ghpvc/?username=bijoya-banik)
 <!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
