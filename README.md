@@ -12,10 +12,10 @@
 </div> -->
 
 ---
+#### :woman_technologist: Who I am?
 
-### :woman_technologist: About Me :
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to various mobile applications.
+- ** Mobile App Developer **
+- Have 4 years of experience in ** Flutter ** and 1 year of experience in ** Android Native **
 
 ---
 
@@ -85,7 +85,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.linkedin.com/in/bijoya16/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/profile.php?id=100009075038347/">
+<a href="https://www.facebook.com/profile.php?id=100009075038347">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="mailto:bijoyabanikbbh@gmail.com">
