@@ -21,7 +21,7 @@
 
 #### What I'm doing?
 
-- Senior mobile application developer at <a href="https://www.linkedin.com/in/tamanna-akter/"> `Appifylab`</a>.
+- Senior mobile application developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 <!-- - Building **[CHT-Travel](https://cht-travel.netlify.app/)** as an travel agency project. -->
 
 ### :hammer_and_wrench: Languages and Tools :
