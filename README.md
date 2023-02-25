@@ -17,15 +17,14 @@
 - **Mobile App Developer**
 - Have 4 years of experience in `Flutter` and 1 year of experience in `Android Native`
 
----
 
-#### What I'm doing?
+
+#### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> What I'm doing?
 
 - Senior Mobile Application Developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 
-#### What my skill looks like?
 
-- 🖥
+#### - 🖥 What my skill looks like?
 
   - **Languages:** `Dart` • `C` • `C++` •`Java` • `PHP`
   - **Frameworks:** `Flutter` • `Laravel`
