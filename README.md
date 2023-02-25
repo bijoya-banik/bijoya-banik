@@ -19,7 +19,7 @@
 
 
 
-#### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> What I'm doing?
+#### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/> What I'm doing?
 
 - Senior Mobile Application Developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 
