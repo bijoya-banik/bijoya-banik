@@ -19,7 +19,7 @@
 
 
 
-#### :mobile_phone: What I'm doing?
+#### :mobile_phone:iPhone: What I'm doing?
 
 - Senior Mobile Application Developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 
