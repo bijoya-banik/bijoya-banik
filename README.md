@@ -19,12 +19,12 @@
 
 
 
-#### :computer: What I'm doing?
+#### :mobile_phone: What I'm doing?
 
 - Senior Mobile Application Developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 
 
-#### - 🖥 What my skill looks like?
+#### :computer: What my skill looks like?
 
   - **Languages:** `Dart` • `C` • `C++` •`Java` • `PHP`
   - **Frameworks:** `Flutter` • `Laravel`
