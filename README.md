@@ -19,6 +19,11 @@
 
 ---
 
+#### What I'm doing?
+
+- Senior mobile application developer at <a href="https://www.linkedin.com/in/tamanna-akter/"> `Appifylab`</a>.
+<!-- - Building **[CHT-Travel](https://cht-travel.netlify.app/)** as an travel agency project. -->
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
