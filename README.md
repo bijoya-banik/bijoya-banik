@@ -103,7 +103,7 @@
 <br/>
 <!-- GitHub Profile Views Counter -->
 
-<img src="https://komarev.com/ghpvc/?username=amani27&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=bijoya-banik&style=flat-square&color=blue" alt=""/>
 <!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
