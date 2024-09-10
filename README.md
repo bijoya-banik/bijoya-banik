@@ -15,7 +15,7 @@
 #### :woman_technologist: Who I am?
 
 - **Mobile App Developer**
-- Have 4 years of experience in `Flutter` and 1 year of experience in `Android Native`
+- Have 5 years of experience in `Flutter` and 1 year of experience in `Android Native`
 
 
 
