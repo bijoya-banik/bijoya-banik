@@ -15,8 +15,8 @@
 #### :woman_technologist: Who I am?
 
 - 🎓 MSc Data Science student at the University of Regina
-- **Mobile App Developer**
-- Have 6 years of experience in `Flutter` and 1 year of experience in `Android Native`
+- Have 6 years of experience as Mobile App Developer in `Flutter` and 1 year of experience in `Android Native`
+- Currently expanding expertise in Data Science and Machine Learning to build data-driven, real-world applications
 
 
 
