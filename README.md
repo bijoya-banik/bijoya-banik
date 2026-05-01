@@ -20,14 +20,14 @@
 
 
 
-#### 📱  What I'm doing?
+#### 📱  Experience?
 
 - Senior Mobile Application Developer at <a href="https://appifylab.com/"> `Appifylab`</a>.
 
 
 #### :computer: What my skill looks like?
 
-  - **Languages:** `Dart` • `C` • `C++` •`Java` • `PHP`
+  - **Languages:** `Dart` • `C` • `C++` •`Java` • `PHP`• `Python`
   - **Frameworks:** `Flutter` • `Laravel`
   
   
